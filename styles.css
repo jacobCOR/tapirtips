@@ -1,0 +1,18 @@
+.container {
+    display: block;
+    margin: auto;
+    position: relative;
+    
+}
+
+.text-entry {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    margin: -25px 0 0 -25px; /* Apply negative top and left margins to truly center the element */
+
+}
+
+body {
+    background-color: #b2d2f2;
+}
